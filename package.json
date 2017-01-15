@@ -1,0 +1,25 @@
+{
+  "name": "electron-dock-icon-sample",
+  "version": "1.0.0",
+  "description": "Electron dock icon sample",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": " https://github.com/dmnlkGarbage/electron-dock-icon-sample",
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial",
+    "demo"
+  ],
+  "author": "dmnlk",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "^1.4.1.14"
+  },
+  "dependencies": {
+    "electron-canvas-to-buffer": "^2.0.0"
+  }
+}
