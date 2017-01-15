@@ -4,9 +4,7 @@
 const electron = require('electron');
 const app = electron.app;
 const remote = electron.remote;
-const nativeImage = electron.nativeImage;
 const fs = require('fs');
-const path = require('path');
 const canvasBuffer = require('electron-canvas-to-buffer')
 
 window.onload = function () {
